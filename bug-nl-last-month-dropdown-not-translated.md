@@ -7,8 +7,8 @@
 - Website: [https://***.com]
 - License: SCB (e.g., Brazil)  
 - Language: Dutch (NL)  
-- Browser: Chrome 125.0  
-- OS: Windows 10
+- Browser: Safari 
+- OS: Sequoia 15.3
 
 ---
 

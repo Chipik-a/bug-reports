@@ -4,7 +4,7 @@
 **Severity:** Medium  
 **Priority:** Medium  
 **Environment:**  
-- Website: [https://capital.com](https://capital.com)  
+- Website: [https://***.com]
 - License: SCB (e.g., Brazil)  
 - Language: Dutch (NL)  
 - Browser: Chrome 125.0  
@@ -14,7 +14,7 @@
 
 ## 🐾 Steps to Reproduce:
 
-1. Navigate to [https://capital.com](https://capital.com)
+1. Navigate to [https://***.com]
 2. In the top-right corner, select SCB license (e.g., Brazil)
 3. Change language to Dutch (NL)  
    _(also reproducible with other non-English, non-German, non-Arabic, non-Chinese locales)_

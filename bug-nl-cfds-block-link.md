@@ -33,11 +33,6 @@ The entire block **"De voordelen van CFD's op aandelen"** is rendered as a click
 
 ---
 
-## 📷 Screenshot:
-*(Optional: insert screenshot or link if available)*
-
----
-
 ## 📝 Notes:
 - This issue seems to be locale-specific (Dutch language with SCB license).
 - In the EN version or under other licenses, this block behaves correctly.

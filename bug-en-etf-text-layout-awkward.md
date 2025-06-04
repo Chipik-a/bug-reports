@@ -7,9 +7,8 @@
 - Website: [https://***.com]
 - License: CYSEC (e.g., Estonia)  
 - Language: English (EN)  
-- Browser: Chrome 125.0  
-- OS: Windows 10
-
+- Browser: Safari 
+- OS: Sequoia 15.3
 ---
 
 ## 🐾 Steps to Reproduce:
